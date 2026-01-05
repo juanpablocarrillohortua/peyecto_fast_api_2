@@ -8999,6 +8999,16 @@
       "golesvisitante": 2,
       "equipovisitante": "Croatia",
       "estaequipoanfitrion": 0
+    },
+    {
+      "anyo": 900,
+      "fase": "Group stage",
+      "equipolocal": "BOCA",
+      "goleslocales": 21232,
+      "golesvisitante": 100000,
+      "equipovisitante": "RIVER",
+      "estaequipoanfitrion": false,
+      "id": 901
     }
   ]
 }

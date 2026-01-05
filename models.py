@@ -15,7 +15,7 @@ class FaseOption(str, Enum):
     Second_group_stage = 'Second group stage'
 
 class Partido(BaseModel):
-   anyo: int
+   anyo: int = Field(gt=0)
    fase: FaseOption
    equipolocal: str
    goleslocales: int
